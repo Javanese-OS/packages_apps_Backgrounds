@@ -13,10 +13,11 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <array name="wallpapers" translatable="false">
-        <item>anime_amoled</item>
-        <item>anime_amoled_2</item>
-        <item>autumn_sailer</item>
-        <item>oneplus_contest</item>
-        <item>toko_taira</item>      
+        <item>alone</item>
+        <item>anime_sky</item>
+        <item>foodie</item>
+        <item>orange_sunset</item>
+        <item>pixelated</item>
+        <item>wave</item>      
     </array>
 </resources>
